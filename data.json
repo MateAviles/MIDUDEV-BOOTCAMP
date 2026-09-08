@@ -1,0 +1,90 @@
+[
+  {
+    "titulo": "Ingeniero de Software",
+    "empresa": "Tech Solutions Inc.",
+    "ubicacion": "Remoto",
+    "descripcion": "Buscamos un ingeniero de software con experiencia en desarrollo web y conocimientos en JavaScript, React y Node.js. El candidato ideal debe ser capaz de trabajar en equipo y tener buenas habilidades de comunicación.",
+    "data": {
+      "modalidad": "remoto",
+      "nivel": "senior",
+      "technology": "javascript"
+    }
+  },
+  {
+    "titulo": "Analista de Datos",
+    "empresa": "Data Driven Co.",
+    "ubicacion": "Ciudad de México",
+    "descripcion": "Estamos buscando un analista de datos con experiencia en el manejo de grandes conjuntos de datos y herramientas de visualización. Se requiere conocimiento en SQL, Python y R.",
+    "data": {
+      "modalidad": "presencial",
+      "nivel": "mid-level",
+      "technology": "python"
+    }
+  },
+  {
+    "titulo": "Desarrollador de Aplicaciones Móviles",
+    "empresa": "Mobile Apps Ltd.",
+    "ubicacion": "Guadalajara",
+    "descripcion": "Buscamos un desarrollador de aplicaciones móviles con experiencia en iOS y/o Android. El candidato debe tener conocimientos en Swift, Kotlin y el desarrollo de interfaces de usuario.",
+    "data": {
+      "modalidad": "hibrido",
+      "nivel": "mid-level",
+      "technology": "swift"
+    }
+  },
+  {
+    "titulo": "Ingeniero de DevOps",
+    "empresa": "Cloud Services SA",
+    "ubicacion": "Remoto",
+    "descripcion": "Estamos buscando un ingeniero de DevOps con experiencia en la gestión de infraestructuras en la nube, automatización de procesos y herramientas de integración continua. Se requiere conocimiento en AWS, Azure o GCP.",
+    "data": {
+      "modalidad": "remoto",
+      "nivel": "senior",
+      "technology": "aws"
+    }
+  },
+  {
+    "titulo": "Desarrollador Frontend React",
+    "empresa": "Pixel Craft Studios",
+    "ubicacion": "Remoto",
+    "descripcion": "Únete a nuestro equipo para construir interfaces web modernas y accesibles. Se requiere dominio avanzado de React, TypeScript, Tailwind CSS y consumo de APIs REST.",
+    "data": {
+      "modalidad": "remoto",
+      "nivel": "mid-level",
+      "technology": "react"
+    }
+  },
+  {
+    "titulo": "Diseñador UX/UI",
+    "empresa": "Creative Studio",
+    "ubicacion": "Buenos Aires",
+    "descripcion": "Buscamos un diseñador UX/UI apasionado por crear experiencias digitales intuitivas. Trabajo en maquetado, wireframes, prototipado e investigación con usuarios utilizando Figma.",
+    "data": {
+      "modalidad": "hibrido",
+      "nivel": "junior",
+      "technology": "figma"
+    }
+  },
+  {
+    "titulo": "Especialista en Ciberseguridad",
+    "empresa": "SecureNet Corp",
+    "ubicacion": "Bogotá",
+    "descripcion": "Buscamos un profesional para auditorías de seguridad, pruebas de penetración (pentesting) y monitoreo de vulnerabilidades en infraestructura web y servidores corporativos.",
+    "data": {
+      "modalidad": "presencial",
+      "nivel": "senior",
+      "technology": "seguridad"
+    }
+  },
+  {
+    "titulo": "Desarrollador Backend Junior",
+    "empresa": "Fintech Global",
+    "ubicacion": "Remoto",
+    "descripcion": "Oportunidad para desarrollador backend Jr. Trabajarás en la creación y mantenimiento de microservicios financieros seguros utilizando Python, Django, PostgreSQL y Docker.",
+    "data": {
+      "modalidad": "remoto",
+      "nivel": "junior",
+      "technology": "python"
+    }
+  }
+]

@@ -7,7 +7,7 @@ fetch("./data.json").then
 ((response) => {
     return response.json();
 }).then((jobs) => {
-    jobs.forEach(job => {
+    jobs.slice(0, RESULT_PER_PAGE).forEach(job => {
         const article = document.createElement('article');
         article.className = 'job-listing-card'
 
